@@ -1,0 +1,33 @@
+.tieude{
+    border: 20px;
+    font-size: 30px;
+    color: red;
+    padding-left: 150px;
+}
+
+.image{
+    padding-left: 75px;
+}
+
+.image2{
+    padding-left: 43px;
+}
+
+.all{
+    background:#DDDDDD;
+    border: 2px solid grey;
+    width: 650px;
+    margin-left: 200px;
+}
+
+.text{
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: justify;
+    text-indent: 15px;
+}
+
+#tintuc > p: :first-child{
+    font-size: 30px;
+    position: absolute;
+}
